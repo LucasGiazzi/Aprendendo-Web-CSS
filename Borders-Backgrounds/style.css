@@ -35,6 +35,6 @@ main {
     height: 64px;
     width: 300px;
     border: 3px solid #1c1a1d;
-    border-bottom-left-radius: 40px;
+    border-bottom   -left-radius: 40px;
     border-top-right-radius: 40px;
 }
