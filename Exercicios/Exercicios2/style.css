@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+li {
+    border: 2px solid transparent;
+
+    padding-bottom: 50px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 30px;
+    background-color: #1e364b;
+    color: #fff;
+    padding: 10px;
+    cursor: pointer;
+    display: inline-block;
+}
+.selected {
+    border: 3px solid rgb(0, 128, 255);
+}
+
+.hidden {
+    display: none;
+}
